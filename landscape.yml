@@ -459,6 +459,19 @@ landscape:
               mailing_list_url: https://meshery.io/subscribe
               youtube_url: https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a
               clomonitor_name: meshery
+              summary_personas: Platform Engineers, DevOps Engineers, SREs, SysAdmins, Developers
+              summary_tags: Collaboration, Configuration Management, DevOps, GitOps, Automation, Visual Topology
+              summary_use_case: >-
+                As a self-service engineering platform, Meshery enables collaborative design and operation of cloud and 
+                cloud native infrastructure.
+              summary_business_use_case: >-
+                An extensible platform designed for building and managing cloud services and cloud native infrastructure,
+                particularly Kubernetes and multi-cloud deployments. Meshery offers deep intergration with hundreds of
+                different types of infrastructure components. Through its extensions, Meshery provides a drag-and-drop
+                interface for designing infrastructure, version control, and policy enforcement. Meshery simplify the
+                complexity of cloud native infrastructure management by offering a collaborative environment for teams to
+                design, deploy, and manage their infrastructure
+              summary_integrations: Kubernetes, GitHub, Kanvas, Prometheus, Grafana, Helm, Docker, Argo CD, AWS, GCP, Azure, Exoscale, DigitalOcean, GitOps, GitHub Actions
           - item:
             name: Metal³
             homepage_url: https://metal3.io/
